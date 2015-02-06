@@ -1,0 +1,9 @@
+# Keys for http://cartodb.com and http://datapoint.metoffice.gov.uk
+
+CARTODB_API_KEY = ''
+cartodb_domain = ''
+DATAPOINT_API_KEY = ''
+
+
+
+
