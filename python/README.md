@@ -1,6 +1,10 @@
-Python utilities and examples
+# Python utilities and examples
 
 ## create.py
+
+## create_fcs_table.py
+
+## create_obs_table.py
 
 ## describe.py
 
@@ -8,4 +12,10 @@ Python utilities and examples
 
 ## truncate.py
 
-## upload.py
+## upload_fcs.py
+
+## upload_obs.py
+
+# Examples
+
+
